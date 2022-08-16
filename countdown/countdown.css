@@ -29,6 +29,10 @@ h1{
     justify-content: flex-start;
     flex-wrap: wrap;
 }
+.left{
+    display: flex;
+    flex-wrap: wrap;
+}
 .big-text{
     font-size: 6rem;
     margin: -1.9rem 2rem;

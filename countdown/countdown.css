@@ -25,6 +25,7 @@ h1{
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
+    flex-wrap: wrap;
 }
 .big-text{
     font-size: 6rem;

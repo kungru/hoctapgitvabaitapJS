@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.container-title_left{
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+.container-title_right{
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+.container-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin-right: 20px;
+}
